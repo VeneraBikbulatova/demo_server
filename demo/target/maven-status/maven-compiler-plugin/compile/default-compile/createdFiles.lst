@@ -1,0 +1,9 @@
+com\example\demo\requests\AddStudentRequest.class
+com\example\demo\requests\GroupRequest.class
+com\example\demo\responses\GroupResponse.class
+com\example\demo\entities\Student.class
+com\example\demo\constructors\GroupConverter.class
+com\example\demo\entities\Group.class
+com\example\demo\services\GroupService.class
+com\example\demo\constructors\GroupResuestConstructor.class
+com\example\demo\controllers\GroupController.class
